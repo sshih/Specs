@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/smart-on-fhir/Swift-SMART.git",
-    "tag": "FHIR-0.5.0",
+    "tag": "FHIR-0.5.0.2",
     "submodules": true
   },
   "platforms": {
